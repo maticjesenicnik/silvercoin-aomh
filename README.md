@@ -1,46 +1,160 @@
-# Getting Started with Create React App
+<div id="top"></div>
 
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+[![Contributors][contributors-shield]][contributors-url]
+[![Forks][forks-shield]][forks-url]
+[![Stargazers][stars-shield]][stars-url]
+[![Issues][issues-shield]][issues-url]
 
-## Available Scripts
 
-In the project directory, you can run:
+<br />
+<div align="center">
+  <a href="https://github.com/maticjesenicnik/silvercoin-aomh">
+    <img src="public/background_art.jpg" alt="Logo" width="425" height="318">
+  </a>
 
-### `npm start`
+<h3 align="center">Silvercoin: Age of Monster Hunters</h3>
 
-Runs the app in the development mode.\
-Open [http://localhost:3000](http://localhost:3000) to view it in the browser.
+  <p align="center">
+    Website for the board game Silvercoin: Age of Monster Hunters  
+    <br />
+    <a href="https://github.com/maticjesenicnik/silvercoin-aomh"><strong>Explore the docs »</strong></a>
+    <br />
+    <br />
+    <a href="https://silvercoin-aomh.si">View Website</a>
+    ·
+    <a href="https://github.com/maticjesenicnik/silvercoin-aomh/issues">Report Bug</a>
+    ·
+    <a href="https://github.com/maticjesenicnik/silvercoin-aomh/issues">Request Feature</a>
+  </p>
+</div>
 
-The page will reload if you make edits.\
-You will also see any lint errors in the console.
 
-### `npm test`
+<!-- TABLE OF CONTENTS -->
+<details>
+  <summary>Table of Contents</summary>
+  <ol>
+    <li>
+      <a href="#about-the-project">About The Project</a>
+      <ul>
+        <li><a href="#built-with">Built With</a></li>
+      </ul>
+    </li>
+    <li><a href="#roadmap">Roadmap</a></li>
+    <li><a href="#contributing">Contributing</a></li>
+    <li><a href="#contact">Contact</a></li>
+  </ol>
+</details>
 
-Launches the test runner in the interactive watch mode.\
-See the section about [running tests](https://facebook.github.io/create-react-app/docs/running-tests) for more information.
 
-### `npm run build`
+<!-- ABOUT THE PROJECT -->
+## About The Project
 
-Builds the app for production to the `build` folder.\
-It correctly bundles React in production mode and optimizes the build for the best performance.
+<!-- [![Product Name Screen Shot][product-screenshot]](https://silvercoin-aomh.com) -->
 
-The build is minified and the filenames include the hashes.\
-Your app is ready to be deployed!
+Website for the new and upcoming board game called Silvercoin: Age of Monster Hunters. The board game
+is being developed by an amazing team of friends, who really pour their heart and soul into the project.
+I am merely developing the website for the game, and I hope that you enjoy it. If you want to know more
+about the team behind the project, you can find them [here](https://silvercoinaomh.com/team/). For more 
+information about the game itself, you can find it [here](https://silvercoin-aomh.com).
 
-See the section about [deployment](https://facebook.github.io/create-react-app/docs/deployment) for more information.
+Set in the fantasy realm of Atosia, **Silver Coin: Age of Monster Hunters** will make sure 
+to take you on a journey like no other. 
 
-### `npm run eject`
+Combining a **true adventure like feeling with strong euro games mechanics, Silver Coin: Age 
+of Monster Hunters** offers a unique gaming experience. Bid for your character, starting 
+location and initial resources, while putting your Victory Points on the line. Now you are 
+ready to start your journey. 
 
-**Note: this is a one-way operation. Once you `eject`, you can’t go back!**
+Set off and keep your eyes on the contracts offered by the various kingdoms. Plan 
+carefully and prepare, as **over 30 monsters you may face will each offer different 
+challenges and get stronger depending on when and where you will face them**. Come 
+unprepared, and you may face difficulties, prepare for too long and precious time 
+will be lost.
 
-If you aren’t satisfied with the build tool and configuration choices, you can `eject` at any time. This command will remove the single build dependency from your project.
 
-Instead, it will copy all the configuration files and the transitive dependencies (webpack, Babel, ESLint, etc) right into your project so you have full control over them. All of the commands except `eject` will still work, but they will point to the copied scripts so you can tweak them. At this point you’re on your own.
+<p align="right">(<a href="#top">back to top</a>)</p>
 
-You don’t have to ever use `eject`. The curated feature set is suitable for small and middle deployments, and you shouldn’t feel obligated to use this feature. However we understand that this tool wouldn’t be useful if you couldn’t customize it when you are ready for it.
 
-## Learn More
+<!-- BUILT WITH -->
+### Built With
 
-You can learn more in the [Create React App documentation](https://facebook.github.io/create-react-app/docs/getting-started).
+* [Nest.js](https://nestjs.com/)
+* [React.js](https://reactjs.org/)
+* [Svelte](https://svelte.dev/)
 
-To learn React, check out the [React documentation](https://reactjs.org/).
+<p align="right">(<a href="#top">back to top</a>)</p>
+
+
+<!-- ROADMAP -->
+## Roadmap
+
+- [ ] Landing page
+    - [ ] Newsletter signup
+    - [ ] Box art
+    - [ ] Short game description
+    - [ ] Game board art
+    - [ ] How to play video
+    - [ ] Social media links
+- [ ] Learn page to game rules and video instructions
+- [ ] Instructions on play testing
+- [ ] Gallery page
+- [ ] Newsletters page
+- [ ] World & lore page
+    - [ ] Kingdoms
+    - [ ] Characters
+    - [ ] Short stories
+- [ ] Videos & podcasts
+- [ ] About team page
+
+See the [open issues](https://github.com/maticjesenicnik/silvercoin-aomh/issues)
+for a full list of proposed features (and known issues).
+
+<p align="right">(<a href="#top">back to top</a>)</p>
+
+
+<!-- CONTRIBUTING -->
+## Contributing
+
+Contributions are what make the open source community such an
+amazing place to learn, inspire, and create. Any contributions
+you make are **greatly appreciated**.
+
+If you have a suggestion that would make this better, please
+fork the repo and create a pull request. You can also simply
+open an issue with the tag "enhancement".
+
+Don't forget to give the project a star! Thanks again!
+
+1. Fork the Project
+2. Create your Feature Branch (`git checkout -b feat/feature-name`)
+3. Commit your Changes (`git commit -m 'feature description'`)
+4. Push to the Branch (`git push origin feature/feature-name`)
+5. Open a Pull Request
+
+<p align="right">(<a href="#top">back to top</a>)</p>
+
+
+<!-- CONTACT -->
+## Contact
+
+Matic Jeseničnik – [@MaticJesenicnik](https://twitter.com/maticjesenicnik) – <a href="mailto:silvercoinaomh@jesenicnik.com">silvercoinaomh@jesenicnik.com</a> <br>
+For the team behind the project, you can find them [here](https://silvercoinaomh.com/team/).
+
+Project Link: [https://github.com/maticjesenicnik/silvercoin-aomh](https://github.com/maticjesenicnik/silvercoin-aomh)
+
+<p align="right">(<a href="#top">back to top</a>)</p>
+
+
+<!-- MARKDOWN LINKS & IMAGES -->
+<!-- https://www.markdownguide.org/basic-syntax/#reference-style-links -->
+[contributors-shield]: https://img.shields.io/github/contributors/maticjesenicnik/silvercoin-aomh.svg?style=for-the-badge
+[contributors-url]: https://github.com/maticjesenicnik/silvercoin-aomh/graphs/contributors
+[forks-shield]: https://img.shields.io/github/forks/maticjesenicnik/silvercoin-aomh.svg?style=for-the-badge
+[forks-url]: https://github.com/maticjesenicnik/silvercoin-aomh/network/members
+[stars-shield]: https://img.shields.io/github/stars/maticjesenicnik/silvercoin-aomh.svg?style=for-the-badge
+[stars-url]: https://github.com/maticjesenicnik/silvercoin-aomh/stargazers
+[issues-shield]: https://img.shields.io/github/issues/maticjesenicnik/silvercoin-aomh.svg?style=for-the-badge
+[issues-url]: https://github.com/maticjesenicnik/silvercoin-aomh/issues
+[license-shield]: https://img.shields.io/github/license/maticjesenicnik/silvercoin-aomh.svg?style=for-the-badge
+[license-url]: https://github.com/maticjesenicnik/silvercoin-aomh/blob/master/LICENSE.txt
+<!-- [product-screenshot]: images/screenshot.png -->
